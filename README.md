@@ -27,4 +27,26 @@ GitHub REST API
 # API Used
 User Profile API  
 
+# User Profile API 
+https://api.github.com/users/%7Busername%7D
+
+# User Repositories API  
+https://api.github.com/users/%7Busername%7D/repos
+
+# How It Works
+
+1. User enters a GitHub username  
+2. Application fetches user profile data from GitHub API  
+3. From the profile response, repositories URL is extracted  
+4. A second API call fetches repositories  
+5. Top 5 repositories are displayed on the UI
+
+# Live Demo
+# Youtube Link 
+
+
+# Screenshots
+![Home Screen](screenshots/home.png)
+
+
 
