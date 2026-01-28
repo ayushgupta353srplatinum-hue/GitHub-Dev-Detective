@@ -46,7 +46,7 @@ https://api.github.com/users/%7Busername%7D/repos
 
 
 # Screenshots
-![Home Screen](screenshots/home.png)
+![Home Screen](Week-3 SS.png)
 
 
 
